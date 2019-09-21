@@ -8,4 +8,4 @@ It will require Es6 to run this program.
 
 To run this program, you can use the following command:
 
-node sort.js
+`node sort.js`

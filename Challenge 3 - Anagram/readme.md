@@ -13,3 +13,9 @@ returns true`
 
 `ex 4. isAnagram(Dormitory, Dirty rooms)
 returns false`
+
+
+
+To trun this program, please run the following command
+
+`node anagram.js <string 1>  <string 2>`
