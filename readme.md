@@ -31,3 +31,5 @@ Under these 3 challenges folders, there's a solution file of each challenge.
 
 To run the code, you can use command:
 `node fileName.js` (eg, `node sort.js`)
+
+You can also follow the instrcutions under each challenge folder to run the code.

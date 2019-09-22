@@ -19,5 +19,3 @@ returns false`
 To trun this program, please run the following command
 
 `node anagram.js <string 1>  <string 2>`
-
-You can also follow the instrcutions under each challenge folder to run the code.
