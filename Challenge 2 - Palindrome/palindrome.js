@@ -36,4 +36,4 @@ function largestPalindrome(n) {
 	console.log(`${pal} = ${num1} * ${pal/num1}`);
 };
 
-largestPalindrome(4);
+largestPalindrome(3);
