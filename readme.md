@@ -30,4 +30,4 @@ on how we can run your code.  This can either be an executable, docker image, a 
 Under these 3 challenges folders, there's a solution file of each challenge.
 
 To run the code, you can use command:
-node fileName.js (eg, node sort.js)
+`node fileName.js` (eg, `node sort.js`)

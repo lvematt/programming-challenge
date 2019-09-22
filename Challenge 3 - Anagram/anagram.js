@@ -18,6 +18,10 @@ function isAnagram(string1, string2) {
 	return result;
 }
 
+/**
+* This function will iterate through the string and check each letter of the string
+* If the letter is between [a-z A-Z] then perform a step operation
+*/
 function checkString(string, check, step) {
 	for(let i=0; i<string.length; i++) {
 		const code = string.charCodeAt(i);
