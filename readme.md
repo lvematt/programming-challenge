@@ -17,3 +17,17 @@ on how we can run your code.  This can either be an executable, docker image, a 
 
 
 ## Good luck!
+
+## Solutions
+
+**How to run the code**
+
+**Note:** Code is written in javascript with ES6 syntax.
+
+**Prerequisite:**
+1. To run the code, you can use any Node.js with version that supprot ES6, eg. v10.15.1
+
+Under these 3 challenges folders, there's a solution file of each challenge.
+
+To run the code, you can use command:
+node fileName.js (eg, node sort.js)
